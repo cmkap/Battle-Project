@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'spec'
-gem 'capybara'
+gem 'rspec'
+gem 'sinatra'
