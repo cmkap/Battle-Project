@@ -1,2 +1,2 @@
 require './app'
-run Battle_Project
+run Battle
